@@ -1,9 +1,6 @@
 # Confy - All-In-One Marketing Platform
 **Grow faster with our premium, high-converting agency landing page.**
 
-<div align="center">
-<img src="./images/confy-desktop.png" alt="Confy - All-In-One Marketing Platform" width="1200" />
-
 [Live Demo](https://confy-marketing-platform.vercel.app)
 
 ### Screenshots

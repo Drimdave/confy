@@ -1,7 +1,7 @@
 # Confy - All-In-One Marketing Platform
 **Grow faster with our premium, high-converting agency landing page.**
 
-[Live Demo](https://confy-marketing-platform.vercel.app)
+[Live Demo](https://marketing-agency-landing-page-alpha.vercel.app/) • [Deploy to Vercel](https://vercel.com/new) • [Documentation](https://github.com/drimdave/confy-marketing-platform#readme)
 
 ### Screenshots
 

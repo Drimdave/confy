@@ -1,15 +1,13 @@
 <div align="center">
-<img width="1200" height="475" alt="Confy Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img src="./images/confy-desktop.png" alt="Confy - All-In-One Marketing Platform" width="1200" />
 
 # Confy - All-In-One Marketing Platform
 **Grow faster with our premium, high-converting agency landing page.**
 
 [Live Demo](https://confy-marketing-platform.vercel.app) • [Deploy to Vercel](https://vercel.com/new) • [Documentation](https://github.com/drimdave/confy-marketing-platform#readme)
 
-### Screenshots
+### Mobile View
 
-<img src="./images/confy-desktop.png" alt="Confy Desktop Screenshot" width="800" />
-<br />
 <img src="./images/confy-mobile.png" alt="Confy Mobile Screenshot" width="300" />
 </div>
 

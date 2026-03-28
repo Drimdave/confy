@@ -1,13 +1,15 @@
-<div align="center">
-<img src="./images/confy-desktop.png" alt="Confy - All-In-One Marketing Platform" width="1200" />
-
 # Confy - All-In-One Marketing Platform
 **Grow faster with our premium, high-converting agency landing page.**
 
-[Live Demo](https://confy-marketing-platform.vercel.app) • [Deploy to Vercel](https://vercel.com/new) • [Documentation](https://github.com/drimdave/confy-marketing-platform#readme)
+<div align="center">
+<img src="./images/confy-desktop.png" alt="Confy - All-In-One Marketing Platform" width="1200" />
 
-### Mobile View
+[Live Demo](https://confy-marketing-platform.vercel.app)
 
+### Screenshots
+
+<img src="./images/confy-desktop.png" alt="Confy Desktop Screenshot" width="800" />
+<br />
 <img src="./images/confy-mobile.png" alt="Confy Mobile Screenshot" width="300" />
 </div>
 
